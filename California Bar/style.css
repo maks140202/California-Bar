@@ -1,0 +1,507 @@
+
+
+
+@import url('https://fonts.cdnfonts.com/css/lumberjack');
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    font-family: 'Lumberjack', sans-serif;
+}
+
+
+
+
+
+
+    
+
+
+
+
+
+
+.header {
+    width: 100%;
+    background-color: rgb(0, 0, 0); /* Цвет фона для заголовка */
+    padding: 10px 0; /* Внутренние отступы сверху и снизу */
+    color: yellow;
+    text-decoration: none;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto; /* Центровка навигации */
+    gap: 30px;
+    color: #fff;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    gap: 30px;
+    color: #fff;
+}
+
+.menu-item {
+    display: flex;
+    text-decoration: none;
+    color: #fff;
+    padding: 0 15px;
+    font-size: 16px;
+}
+.a {
+    text-decoration: none;
+    color: #fff;
+    padding: 0 15px;
+    font-size: 16px;
+}
+
+
+
+
+.menu-link{
+    text-decoration: none;
+    color: #fff;
+}
+
+
+
+.logo {
+    display: flex;
+    justify-content: center;
+}
+
+.ul{
+    color: green;
+    gap: 30px;
+    text-decoration: none;
+}
+
+
+
+.first{
+
+width:1920px;
+height:680px;
+background-image: url(bg.png);
+background-repeat: no-repeat;
+
+}
+
+
+
+.name{
+    color:purple ;
+    font-size: 96px;
+font-weight: 100;
+padding-left: 373px;
+padding-top: 296px;
+text-shadow: 0 0 5px #b91fc4,
+0 0 10px #a9a4a9,
+0 0 15px #70666e,
+0 0 20px #c6c0c8;
+
+}
+
+
+
+.title{
+font-weight: 400;
+font-size:48px;
+color: #fff;
+padding-left: 353px;
+line-height: 56.64px;
+
+}
+
+
+.undertext{
+color:rgb(203, 33, 174);
+
+}
+
+
+
+.p{
+    
+    padding-top: 30px;
+}
+
+
+
+.second{
+    width:1920px;
+height:980px;
+background-color: black;
+
+}
+
+
+
+
+
+
+.event{
+padding-left: 372px;
+padding-top: 100px;
+font-weight: 400;
+font-size: 64px;
+color:purple ;
+text-shadow: 0 0 5px #b91fc4,
+0 0 10px #a9a4a9,
+0 0 15px #70666e,
+0 0 20px #c6c0c8;
+
+}
+
+
+
+.arrow{
+padding-top: 10px;
+padding-right: 20px;
+width: 257px;
+margin: 0;
+padding-left: 7px;
+
+}
+
+
+
+
+
+.services-wrap{
+margin: 0;
+   gap:50px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding-right: 600px;
+   padding-bottom: 100px;
+padding-top: 60px;
+}
+
+
+
+.services{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap:30px;
+    
+   
+}
+
+
+
+.services_img{
+    margin-bottom: 24px;
+}
+
+
+
+.services_title{
+    margin-bottom: 16px;
+    font-size:24px;
+    line-height: 32px;
+}
+
+
+
+
+
+
+
+.third{
+    width:1520px;
+    height: 691px;
+    background-color: #020F1C;
+    
+}
+
+
+
+
+
+.news{
+padding-top: 42px;
+padding-left: 512px;
+font-size:64px;
+color:purple ;
+text-shadow: 0 0 5px #b91fc4,
+0 0 10px #a9a4a9,
+0 0 15px #70666e,
+0 0 20px #c6c0c8;
+
+}
+
+
+.price{
+padding-left: 114px;
+gap: 30px;
+
+}
+
+.price-info{
+    gap: 10px;
+    display: grid;
+}
+
+.price-title{
+
+
+
+}
+
+.rubles-price{
+    
+
+}
+
+
+
+.common{
+    display:grid;
+  column-gap:530px;
+  padding-top: 130px;
+}
+
+
+
+.pink-word{
+    color:#D6258F;
+}
+
+
+
+
+.price_text{
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+
+
+
+.stap-logo{
+padding-left: 1100px;
+transform: translateY(-400px);
+
+}
+
+
+
+
+.glass-logo{
+
+    padding-left: 800px;
+    transform: translateY(-540px);
+
+
+}
+
+
+
+.four{
+
+    width:1920px;
+    height: 590px;
+    background-image: url(Rectangle\ 6.png);
+}
+
+
+
+.disko{
+
+padding-top: 228px;
+padding-left: 650px;
+font-size:48px;
+color:#D6258F;
+
+
+
+}
+
+.friday{
+color: white;
+padding-left: 555px;
+padding-top: 35px;
+font-size:36px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+.five{
+width:1920px;
+height: 1250px;
+background-image: url(bg\ —\ копия\ 2.png);
+}
+
+
+
+
+.photos{
+text-align: center;
+font-size: 64px;
+color:purple ;
+text-shadow: 0 0 5px #b91fc4,
+0 0 10px #a9a4a9,
+0 0 15px #70666e,
+0 0 20px #c6c0c8;
+padding-top: 100px;
+padding-right: 450px;
+
+}
+
+
+
+
+.container-2{
+    display:flex;
+
+align-items: center;
+gap:30px;
+
+}
+
+
+
+
+.gallery{
+margin: 0;
+display:flex;
+justify-content: space-between;
+align-items: center;
+gap:30px;
+padding-top: 60px;
+padding-left: 40px;
+}
+
+
+.container-3{
+    display:flex;
+
+    align-items: center;
+    gap:30px;
+}
+
+
+
+
+
+.gallery-2{
+    margin: 0;
+display:flex;
+justify-content: space-between;
+align-items: center;
+gap:30px;
+padding-top: 40px;
+padding-left: 40px;
+}
+
+
+
+
+
+.six{
+width:1520px;
+height:900px;
+
+
+}
+
+
+
+
+
+.bar{
+color: #D6258F;
+font-size: 48px;
+line-height: 56.64px;
+padding-top: 50px;
+padding-left: 600px;
+
+}
+
+
+
+.footer-2{
+color: #fff;
+padding-top: 30px;
+padding-left: 650px;
+gap:10px;
+font-size:24px;
+line-height: 28.32px;
+}
+
+.footer-item{
+    gap:30px;
+}
+
+
+
+.footer-link{
+    gap:30px;
+}
+
+
+
+.line{
+
+    padding-top: 40px;
+}
+
+
+
+.end{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+.big-button{
+    color:white;
+margin-left:300px ;
+transform: translateY(-500px);
+width: 100%;
+border-radius: 5em;
+border-color:#b91fc4;
+background-color: #020F1C;
+width:800px;
+height: 100px;
+align-items: center;
+font-size: 24px;
+}
+
+
+
+
+.small-button{
+    transform: translateY(1000px);
+    transform: translateX(-450px);
+
+
+}
